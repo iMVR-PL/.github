@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="logos/jointlab.png" height="70" alt="iMVR PuzzleLogic Joint Lab" />
+    <img src="logos/jointlab.png" height="170" alt="iMVR PuzzleLogic Joint Lab" />
   </a>
 
   # IMVR & PuzzleLogic Joint Lab
@@ -11,6 +11,7 @@
   <a href="https://puzzlelogic.com">
     <img src="logos/puzzlelogic.png" height="70" alt="PuzzleLogic" />
   </a>
+  
   **Advancing Intelligent Pathology through Vision, Robotics, and Computational Innovation**
 
   [![GitHub Stars](https://img.shields.io/github/stars/jinlab-imvr?style=social)](https://github.com/jinlab-imvr)

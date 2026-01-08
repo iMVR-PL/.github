@@ -1,4 +1,9 @@
 <div align="center">
+  <a>
+    <img src="logos/jointlab.png" height="70" alt="iMVR PuzzleLogic Joint Lab" />
+  </a>
+
+  # IMVR & PuzzleLogic Joint Lab
   <a href="https://yuemingjin.github.io">
     <img src="logos/jinlab.png" height="70" alt="Jin Lab – iMVR@NUS" />
   </a>
@@ -6,8 +11,6 @@
   <a href="https://puzzlelogic.com">
     <img src="logos/puzzlelogic.png" height="70" alt="PuzzleLogic" />
   </a>
-
-  # IMVR & PuzzleLogic Joint Lab
   **Advancing Intelligent Pathology through Vision, Robotics, and Computational Innovation**
 
   [![GitHub Stars](https://img.shields.io/github/stars/jinlab-imvr?style=social)](https://github.com/jinlab-imvr)

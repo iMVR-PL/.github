@@ -1,12 +1,22 @@
-<h1 align="center">IMVR & PuzzleLogic Lab</h1>
-<p style="display: flex; align-items: center; gap: 24px;">
-  <a href="https://github.com/jinlab-imvr" title="Jin Lab – iMVR@NUS">
+<!-- =========================
+IMVR & PuzzleLogic Lab — Organization Profile
+Place this file at: .github/profile/README.md
+========================= -->
+<a href="https://github.com/jinlab-imvr" title="Jin Lab – iMVR@NUS">
     <img src="logos/jinlab.png" height="50" />
-  </a>
-  <a href="https://puzzlelogic.com" title="PuzzleLogic">
-    <img src="logos/PuzzleLogic.png" height="50" />
-  </a>
-</p>
+</a>
+<a href="https://puzzlelogic.com" title="PuzzleLogic">
+    <img src="logos/puzzlelogic.png" height="50" />
+</a>
+
+<!-- <h3 align="center">Mission & Vision</h3>
+
+<p align="center">
+  <b>Mission:</b> Advancing intelligent pathology healthcare through technological innovation.<br/>
+  <b>Vision:</b> Providing world-leading AI solutions in pathology to enhance diagnostic quality and efficiency, and to expand clinical applications.
+</p> -->
+
+<!-- <hr/> -->
 
 ### In collaboration with:
 <p style="display: flex; align-items: center; gap: 24px;">

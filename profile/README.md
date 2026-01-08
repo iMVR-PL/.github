@@ -1,5 +1,5 @@
 <div align="center">
-  <a>
+  <a href="https://github.com/iMVR-PL">
     <img src="logos/jointlab.png" height="170" alt="iMVR PuzzleLogic Joint Lab" />
   </a>
 

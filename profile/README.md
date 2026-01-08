@@ -18,10 +18,12 @@
 ---
 
 ### 🧬 About the Joint Lab
-The **IMVR & PuzzleLogic Joint Lab** bridges the gap between cutting-edge AI research and real-world clinical pathology. Our mission is to develop robust, scalable, and interpretable AI solutions for high-resolution medical imaging and surgical robotics.
+The **IMVR & PuzzleLogic Joint Lab** integrates advanced AI research with clinical practice to address the multi-scale, high-dimensional complexity of digital pathology. Our mission is to move computational pathology beyond isolated pattern recognition toward models that internalize the expert "thoughts" and structured reasoning pathways used by human specialists.
 
-* **Intelligent Medical Vision (iMVR):** Focusing on 3D/4D medical scene understanding, cross-modality learning, and surgical robot perception.
-* **Computational Pathology (PuzzleLogic):** Specializing in Whole Slide Imaging (WSI) analysis, Foundation Models for pathology, and efficient diagnostic workflows.
+* **Regional to Slide interpretation:** Efficient gigapixel-scale Whole Slide Image (WSI) analysis through MIL Models and ROI evidences.
+* **Spatial interpretation:** Bridging morphology with spatial transcriptomics via generative frameworks.
+* **Pathological VLM Reasoning:** Focusing on multi-scale diagnostic reasoning and evidence flow, mimicking how pathologists navigate from low-power tissue architecture to high-power cellular details.
+* **Pathological Agentic System:** Agentic system for close-circus evidence seeking and human-ai-collaboration.
 
 ---
 

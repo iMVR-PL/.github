@@ -20,23 +20,20 @@
 ### 🧬 About the Joint Lab
 The **IMVR & PuzzleLogic Joint Lab** integrates advanced AI research with clinical practice to address the multi-scale, high-dimensional complexity of digital pathology. Our mission is to move computational pathology beyond isolated pattern recognition toward models that internalize the expert "thoughts" and structured reasoning pathways used by human specialists.
 
-* **Regional to Slide interpretation:** Efficient gigapixel-scale Whole Slide Image (WSI) analysis through MIL Models and ROI evidences.
-* **Spatial interpretation:** Bridging morphology with spatial transcriptomics via generative frameworks.
+
+---
+
+### 🔬 Core Research & Development
+Our work focuses on four primary pillars of innovation:
+
+* **Regional to Slide Interpretation:** Efficient gigapixel-scale Whole Slide Image (WSI) analysis through MIL Models and ROI evidences.
+* **Spatial Interpretation:** Bridging morphology with spatial transcriptomics via generative frameworks.
 * **Pathological VLM Reasoning:** Focusing on multi-scale diagnostic reasoning and evidence flow, mimicking how pathologists navigate from low-power tissue architecture to high-power cellular details.
 * **Pathological Agentic System:** Agentic system for close-circus evidence seeking and human-ai-collaboration.
 
 ---
 
-### 🔬 Core Research & Development
-Our work focuses on three primary pillars of innovation:
-
-1.  **Foundation Models for Healthcare:** Developing large-scale pre-trained models for pathology and medical vision.
-2.  **Surgical Data Science:** Enhancing robot-assisted surgery through real-time perception and 3D reconstruction.
-3.  **Scalable Clinical AI:** Building high-throughput pipelines for digital pathology in collaboration with top-tier hospitals.
-
----
-
-### 🤝 Our Global Ecosystem
+### 🤝 Our Collaboration Ecosystem
 We pride ourselves on a strong network of academic, clinical, and industrial partners.
 
 | Industrial Partners | Research & Clinical Partners |
@@ -48,7 +45,7 @@ We pride ourselves on a strong network of academic, clinical, and industrial par
 ---
 
 ### 📂 Featured Repositories
-*Coming Soon: Keep an eye out for our open-source Foundation Models and Medical Vision toolkits.*
+*Coming Soon: Keep an eye out for our works.*
 
 ---
 

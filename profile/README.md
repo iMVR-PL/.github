@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/iMVR-PL">
-    <img src="logos/jointlab.png" height="170" alt="iMVR PuzzleLogic Joint Lab" />
+    <img src="logos/jointlab.png" height="170" alt="iMVR x PuzzleLogic" />
   </a>
 
-  # IMVR & PuzzleLogic Joint Lab
+  # IMVR X PuzzleLogic
   <a href="https://yuemingjin.github.io">
     <img src="logos/jinlab.png" height="70" alt="Jin Lab – iMVR@NUS" />
   </a>

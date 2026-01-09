@@ -21,7 +21,7 @@
 
 ---
 
-### 🧬 About us
+### 🧬 About Us
 The **IMVR & PuzzleLogic Research Collaboration** integrates advanced AI research with clinical practice to address the multi-scale, high-dimensional complexity of digital pathology. Our mission is to move computational pathology beyond isolated pattern recognition toward models that internalize the expert "thoughts" and structured reasoning pathways used by human specialists.
 
 
